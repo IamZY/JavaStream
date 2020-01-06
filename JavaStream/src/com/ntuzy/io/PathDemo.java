@@ -17,5 +17,8 @@ public class PathDemo {
         path = "D:" + File.separatorChar + "src";
         System.out.println(path);
 
+
+
+
     }
 }
